@@ -1,0 +1,25 @@
+# gradle
+.gradle/
+build/
+gradle-app.setting
+
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+.gradletasknamecache
+
+# intellij files
+.idea/
+*.iml
+*.ipr
+*.iws
+build-idea/
+
+# eclipse files
+.project
+.classpath
+.settings
+build-eclipse/
+
+# netbeans files
+nb-configuration.xml
+nbactions.xml
